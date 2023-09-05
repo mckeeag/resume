@@ -1,4 +1,4 @@
-#Arden McKee 
+# Arden McKee 
 
 <img src="IMG_9878.jpg" width=100>
 
@@ -7,13 +7,13 @@ mckeeag@appstate.edu
 [Linkedin](https://www.linkedin.com/in/arden-mckee/)         
 
 ______
-####Education
-#####Geography B.S. - GIS, Grad. May 2024
-#####Appalachian State University
+#### Education
+##### Geography B.S. - GIS, Grad. May 2024
+##### Appalachian State University
 Boone, NC
  
 _______
-####Skills
+#### Skills
 - Microsoft Office
 - Adobe Creative Suite
 - ArcGIS 
@@ -21,7 +21,7 @@ _______
 - ENVI
 - R Statistical Software
 
-####Related Coursework
+#### Related Coursework
 - Cartography
 - Remote Sensing
 - Digital Image Processing
@@ -29,12 +29,12 @@ _______
 - Planning Techniques
 - Statistics in Geography
 
-####Work Experience
+#### Work Experience
 - Stick Boy Bread Co. - April 2022 - Present
   - Barista/Server
   - Prep
 
-####Volunteer/Extracirricular Experience
+#### Volunteer/Extracirricular Experience
 - Appalachian Student Ambassador - February 2023 - Present
     - Photography Coordinator 
     - Archives Chairperson
